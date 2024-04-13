@@ -2,7 +2,7 @@
 Trompe
 
 **Description and Implementation:**  
-The Trompe is a novel wind instrument that utilizes advanced technology to enhance musical expression and interaction. This instrument combines a barometric pressure sensor with I2C (SCL/SDA connections) to accurately measure breath pressure through my script mappings whihc chops it down to a decent level for volume gain control. It features a custom-made button pad(roughly crafted by me and some switches) with seven primary note buttons and separate controls for sharp and flat to allow for common scales to be easily played. The sensor's accuracy is enhanced by a 3D-printed casing, designed to optimize airflow and pressure detection. This setup not only allows for precise control over musical expression but also offers digital connectivity for further sound manipulation and recording.
+Trompe combines a barometric pressure sensor with I2C (SCL/SDA connections) to accurately measure breath pressure through my script mappings whihc chops the readings down to a decent level for volume gain control over a 0-127 midi signal. It features a custom-made button pad(roughly crafted by me and some switches) with seven primary note buttons and separate controls for sharp and flat to allow for common scales to be easily played. The sensor's accuracy is enhanced by a 3D-printed casing, designed to optimize airflow and pressure detection. This setup not only allows for solid control over musical expression but also offers digital connectivity for further sound manipulation and recording.
 
 **Good Outcome Deliverable:**
 
