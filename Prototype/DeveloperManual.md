@@ -1,0 +1,8 @@
+I chose to capture breath. It is expressive and it lends itself easily to an established format that is already engrained in music.
+I mixed this with the familiar format of a button keyboard. No polyphonic expression, just the notes. The Barometric Pressure Sensor does a suprising amount of heavy lifting when it comes to the expressive nature of this instrument. 
+
+I used a Barometric Pressure Sensor to acheive this. I never really thought of another way to acheive this, as this idea seems so perfect for the task. The only drawback of this method is that I needed to create a controlled pressure environment controlled by one's breath. I took a tube with plastic  end caps, and poked the pins of the BPC out of the cap. This allowed for easy connection to the teensy, and also a way to create a perfectly sealed environment for the sensor. I then took a tube and ran it into the chamber. This created a perfect environment for the sensor, was non-conductive due to the paper, and was honestly an extremely sturdy option compared to how I thought it would play out.
+
+I originally planned to use the 3d printer but I really love this design. Going forward I will 3d print something custom, but this design is also really cool. For data processing, I want to use an RC filter to clean the signal but for now its pretty sturdy. 
+
+My main method of processing that I used was the Map function. such a handy tool to get values in midi range. 
